@@ -15,12 +15,11 @@ cls()
 os.system(['','color D'][os.name == 'nt'])
 
 print '''
-                SELAMAT DATANG
-                     DI
-                JAWA CYBER TEAM
+                BLACK HACK 669
+                     
                 PEMBUAT MR.ZamaN               
       GITHUB https://github.com/BLACK-HACK-669
-             WHATSAPP 077088888888
+     FACEBOOK https://www.facebook.com/ZamaN.YousiF.JibraeeL.669
      FACEBOOK RECOVERY PASSWORD ATTACKER  
  _____              _                 _
 |  ___|_ _  ___ ___| |__   ___   ___ | | __
