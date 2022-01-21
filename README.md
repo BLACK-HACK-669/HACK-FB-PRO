@@ -1,4 +1,5 @@
-# HACK-FB-PRO$ pkg update && pkg upgrade
+# HACK-FB-PRO$ 
+pkg update && pkg upgrade
 
 $ pkg install git
 
