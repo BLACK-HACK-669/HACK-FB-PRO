@@ -5,7 +5,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/BLACK-HACK-669/HACK-FB-PRO/blob/master/fb.py
+$ git clone https://github.com/BLACK-HACK-669/HACK-FB-PRO.git
 
 $ cd HACK-FB-PRO
 
