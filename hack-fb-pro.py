@@ -12,7 +12,7 @@ cls()
 
 os.system(['','color D'][os.name == 'nt'])
 
-print ('''
+logo = '''
 
 
 ▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
@@ -22,7 +22,7 @@ print ('''
 ░░░░▄▄███▄▄░░░░░█████░
 
 
-''')
+'''
 if len(sys.argv) != 3:
     print "\n\n[#] Penulisan: python2 fb.py [TagetID] list.txt "
     sys.exit()
