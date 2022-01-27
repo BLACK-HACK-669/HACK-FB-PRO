@@ -23,6 +23,7 @@ logo = '''
 
 
 '''
+print(logo)
 if len(sys.argv) != 3:
     print "\n\n[#] Penulisan: python2 fb.py [TagetID] list.txt "
     sys.exit()
