@@ -12,18 +12,11 @@ cls()
 
 os.system(['','color D'][os.name == 'nt'])
 
-logo = '''
-
-
-▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
-▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░
-▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░
-▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
-░░░░▄▄███▄▄░░░░░█████░
-
-
+print '''
+github:BLACK-HACK-669
+YouTube:BLACK HACK 669
+Facebook:BLACK HACK 669
 '''
-print(logo)
 if len(sys.argv) != 3:
     print "\n\n[#] Penulisan: python2 fb.py [TagetID] list.txt "
     sys.exit()
